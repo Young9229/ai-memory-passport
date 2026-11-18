@@ -1,0 +1,10 @@
+{
+  "slug": "ai-memory-passport",
+  "name": "AI Memory Passport (通用 AI 记忆护照)",
+  "version": "1.0.0",
+  "description_zh": "使用全平台 AI 通用的 AI-PASSPORT.md 协议文件，实现个人长期偏好与记忆在任意本地或云端 AI 工具间的无损提取、合并与迁移。",
+  "description_en": "Universal AI long-term memory and preference portability skill using the self-describing AI-PASSPORT.md protocol.",
+  "labels": {
+    "requires_api_key": "false"
+  }
+}
